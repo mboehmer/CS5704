@@ -1,0 +1,12 @@
+454-454-5656,Federal,.28
+454-454-5656,State,.08
+454-454-5656,Social Security,.0625
+454-454-5656,Life Insurance,.1
+555-232-3434,Federal,.25
+555-232-3434,State,.07
+555-232-3434,Medical FSA,.10
+555-232-3434,Social Security,.0625
+555-232-3434,Life Insurance,.05
+654-321-1234,Federal,.22
+654-321-1234,State,.06
+654-321-1234,Social Security,.0625
