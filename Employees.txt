@@ -1,0 +1,3 @@
+Michael Boehmer,454-454-5656,13.45,H,38.25
+William Hunter,654-321-1234,14.50,H,40.0
+Kimberly McDonald,555-232-3434,35000.00,S,2
